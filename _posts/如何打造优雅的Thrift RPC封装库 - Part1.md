@@ -4,6 +4,7 @@ categories: rpc
 tags: [rpc, thrift, zookeeper]
 ----------
 本系列文章我们重点对Thrift RPC封装库进行介绍，计划分成几部分来讲：
+
     * 一个简易版本的通用Thrift RPC库封装，支持服务注册、服务发现。
     * Thrift RPC熔断、降级、限流
     * Thrift RPC异步化（swift）
